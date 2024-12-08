@@ -5,12 +5,14 @@
 This project focuses on analyzing hotel booking data to uncover actionable insights that can drive strategic decisions for optimizing bookings, enhancing customer satisfaction, and maximizing revenue. Employing a robust data analysis pipeline, we explored patterns in customer behavior, booking trends, and revenue performance.
 
 **Objective**
+
 The goal of this analysis was to:
 Understand booking trends across different customer segments
 Identify key factors influencing cancellations
 Provide actionable recommendations to improve hotel performance
 
 **Methodology**
+
 **1. Data Exploration and Cleaning**
 Data Overview: Initial inspection of the dataset revealed columns related to booking details, customer demographics, and reservation outcomes
 Cleaning: Handled missing values, standardized data types, and ensured consistent formatting. Outliers were addressed using statistical thresholds to minimize skew in the analysis
