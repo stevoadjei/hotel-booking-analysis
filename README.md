@@ -1,4 +1,4 @@
-# hotel-booking--analysis
+# hotel-booking analysis
 **Hotel Booking Analysis: A Comprehensive Data Science Approach**
 **Overview**
 This project focuses on analyzing hotel booking data to uncover actionable insights that can drive strategic decisions for optimizing bookings, enhancing customer satisfaction, and maximizing revenue. Employing a robust data analysis pipeline, we explored patterns in customer behavior, booking trends, and revenue performance.
