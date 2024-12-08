@@ -38,6 +38,7 @@ Direct bookings had lower cancellation rates compared to third-party bookings
 Revenue maximization opportunities were found in upselling room upgrades during peak seasons
 
 **Recommendations**
+
 Cancellation Policy Adjustments: Implement stricter cancellation policies for long-lead-time bookings to reduce revenue loss
 Marketing Focus: Target direct booking channels to leverage their lower cancellation rates
 Dynamic Pricing: Adopt demand-driven pricing models to capitalize on seasonal trends
@@ -45,5 +46,7 @@ Customer Retention: Offer loyalty rewards to repeat customers from high-value se
 
 **Technologies and Tools**
 Languages: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 Environment: Jupyter Notebook
