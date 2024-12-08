@@ -45,6 +45,7 @@ Dynamic Pricing: Adopt demand-driven pricing models to capitalize on seasonal tr
 Customer Retention: Offer loyalty rewards to repeat customers from high-value segments
 
 **Technologies and Tools**
+
 Languages: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
