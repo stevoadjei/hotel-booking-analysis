@@ -1,4 +1,4 @@
-# hotel-booking analysis
+# hotel booking analysis
 **Hotel Booking Analysis: A Comprehensive Data Science Approach**
 **Overview**
 
